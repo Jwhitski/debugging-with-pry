@@ -10,3 +10,5 @@ def prying_into_the_method
 end
 
 prying_into_the_method
+
+#this is like using console.logs to see what returns.
